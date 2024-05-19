@@ -1,4 +1,4 @@
-***This repository contains all the scripts related to the following tools:***
+***This repository contains all the scripts related to the MANAGE ENGINE PRODUCTS:***
 
 - Service Desk Plus
 - Asset Explorer
